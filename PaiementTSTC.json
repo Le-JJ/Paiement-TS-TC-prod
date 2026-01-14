@@ -3,6 +3,7 @@
   "url": "https://dub.sh/paietstc20",
   "changelog": [
     "- Simplification du parcours : moins d’étapes pour plus d’efficacité",
+    "- Prise en charge du temps partiel",
     "- Affichage systématique et simultané du montant brut et net",
     "- Calcul du nombre de minutes nécessaires pour compenser une grève",
     "- Accès direct à Demandes RH pour demander le paiement",
