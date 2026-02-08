@@ -1,7 +1,9 @@
 {
-  "version": "2.0",
-  "url": "https://dub.sh/paietstc20",
+  "version": "2.0.1",
+  "url": "https://dub.sh/paietstc201",
   "changelog": [
+    "- Correction de bugs",
+    "v2.0",
     "- Simplification du parcours : moins d’étapes pour plus d’efficacité",
     "- Prise en charge du temps partiel",
     "- Affichage systématique et simultané du montant brut et net",
