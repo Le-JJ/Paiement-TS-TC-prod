@@ -2,8 +2,8 @@
   "version": "2.1",
   "url": "https://dub.sh/paietstc21",
   "changelog": [
-    "- Les réglages sont désormais dans le raccourci, vous entrerez le salaire et le temps de travail pour la dernière fois, même en cas de mise à jour !",
-    "- Pour les utilisateurs de la toute dernière version du raccourci \"Calcul TS/TC (retard)\", les réglages sont synchronisés entre les deux raccourcis.",
+    "- Les réglages sont désormais dans le raccourci, entrez le salaire et le temps de travail pour la dernière fois, même en cas de mise à jour !",
+    "- Utilisateurs de la toute dernière version du raccourci \"Calcul TS/TC (retard)\", les réglages sont synchronisés entre les deux raccourcis.",
     "- Retrouvez tous les liens utiles dans le nouveau raccourci \"Portail Pro\" en appuyant sur \"Mes autres raccourcis\" en fin d'utilisation.\n",
     "Profitez-bien de la dernière version de votre raccourci préféré !"
   ]
