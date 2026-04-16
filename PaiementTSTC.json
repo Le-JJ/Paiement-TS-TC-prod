@@ -1,9 +1,10 @@
 {
-  "version": "2.1.2",
-  "url": "https://dub.sh/paietstc212",
+  "version": "2.2",
+  "url": "https://dub.sh/paietstc22",
   "changelog": [
+    "• Le calcul des montants nets est affiné selon le type de contrat (merci à Martial L.8)\n",
+    "v2.1.2 / v2.1.1",
     "• Correction d'un bug empêchant la recherche automatique de mise à jour\n",
-    "v2.1.1",
     "• Ajout du raccourci à l’écran d’accueil",
     "• Meilleure synchronisation des réglages entre raccourcis",
     "• Minimum de 5 jours entre deux recherches de mise à jour (auparavant à chaque lancement). Possibilité de la forcer dans les Réglages",
